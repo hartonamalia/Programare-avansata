@@ -3,21 +3,21 @@
 
 ## 📔 Table of Contents
 
-- [About the Project](#about-the-project)
-- [Screenshots](#screenshots)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Environment Variables](#environment-variables)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running Tests](#running-tests)
-  - [Run Locally](#run-locally)
-  - [Deployment](#deployment)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [About the Project](#🌟-about-the-project)
+- [Screenshots](#📷-screenshots)
+- [Tech Stack](#👾-tech-stack)
+- [Features](#🎯-features)
+- [Environment Variables](#🔑-environment-variables)
+- [Getting Started](#🧰-getting-started)
+  - [Prerequisites](#‼️-prerequisites)
+  - [Installation](#⚙️-installation)
+  - [Running Tests](#🧪-running-tests)
+  - [Run Locally](#🏃-run-locally)
+  - [Deployment](#🚩-deployment)
+- [Usage](#👀-usage)
+- [Roadmap](#🧭-roadmap)
+- [Contact](#🤝-contact)
+- [Acknowledgements](#💎-acknowledgements)
 
 ---
 
@@ -49,7 +49,6 @@ Provide a clear description of the project, its purpose, and functionalities.
 - Feature 3
 
 ---
-
 
 ## 🔑 Environment Variables
 
@@ -140,18 +139,14 @@ function App() {
 
 ---
 
----
-
 ## 🤝 Contact
 
 * Harton Amalia MSD1
 * Habasescu Andrei MSD1
 
-Project Link: [[https://github.com/JobHunter2024/GammaTeam](https://github.com/JobHunter2024/GammaTeam)]
+Project Link: [https://github.com/JobHunter2024/GammaTeam](https://github.com/JobHunter2024/GammaTeam)
 
 ---
 
 ## 💎 Acknowledgements
-
-
 
