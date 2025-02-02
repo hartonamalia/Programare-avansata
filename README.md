@@ -1,19 +1,12 @@
 # JobHunter
 
 
-Contributors | Last Update | Forks | Stars | Open Issues | License  
---- | --- | --- | --- | --- | ---  
-View Demo · Documentation · Report Bug · Request Feature  
-
----
-
 ## 📔 Table of Contents
 
 - [About the Project](#about-the-project)
 - [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Color Reference](#color-reference)
 - [Environment Variables](#environment-variables)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -25,8 +18,6 @@ View Demo · Documentation · Report Bug · Request Feature
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
-- [FAQ](#faq)
-- [License](#license)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -61,16 +52,6 @@ Provide a clear description of the project, its purpose, and functionalities.
 
 ---
 
-## 🎨 Color Reference
-
-| Color           | Hex       |
-|----------------|----------|
-| Primary Color  | #222831  |
-| Secondary Color| #393E46  |
-| Accent Color   | #00ADB5  |
-| Text Color     | #EEEEEE  |
-
----
 
 ## 🔑 Environment Variables
 
@@ -160,13 +141,6 @@ function App() {
 
 ---
 
-## 🧭 Roadmap
-
-- [ ] Todo 1
-- [ ] Todo 2
-
----
-
 ## 👋 Contributing
 
 Contributions are always welcome! See `CONTRIBUTING.md` for ways to get started.
@@ -179,34 +153,15 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ---
 
-## ❔ FAQ
-
-**Question 1**  
-Answer 1  
-
-**Question 2**  
-Answer 2  
-
----
-
-## ⚠️ License
-
-Distributed under no License. See `LICENSE.txt` for more information.
-
----
-
 ## 🤝 Contact
 
-Your Name - [@twitter_handle](https://twitter.com/your_handle) - [email@email_client.com](mailto:email@email_client.com)
+Your Name - [Harton Amalia MSD1] [Habasescu Andrei MSD1]
 
-Project Link: [https://github.com/your-username/project-name](https://github.com/your-username/project-name)
+Project Link: [https://github.com/JobHunter2024/GammaTeam]([https://github.com/your-username/project-name](https://github.com/JobHunter2024/GammaTeam))
 
 ---
 
 ## 💎 Acknowledgements
 
-- [Shields.io](https://shields.io/)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
-- [Readme Template](https://github.com/Louis3797/awesome-readme-template)
+
 
