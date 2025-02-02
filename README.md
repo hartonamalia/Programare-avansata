@@ -21,7 +21,7 @@
 
 ## 🌟 About the Project
 
-Provide a clear description of the project, its purpose, and functionalities.
+A smart web application that helps users track IT job market trends by aggregating job offers, classifying them semantically, and providing insights based on current demands.
 
 ---
 
