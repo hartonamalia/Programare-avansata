@@ -16,8 +16,6 @@
   - [Deployment](#deployment)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [Code of Conduct](#code-of-conduct)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -68,18 +66,19 @@ ANOTHER_API_KEY=another-key
 
 ### ‼️ Prerequisites
 
-This project uses Yarn as a package manager:
+Ensure you have Node.js installed.
+This project uses npm as a package manager:
 
 ```bash
-npm install --global yarn
+npm install -g npm
 ```
 
 ### ⚙️ Installation
 
-Install my-project with Yarn:
+Install my-project with npm:
 
 ```bash
-yarn install my-project
+npm install my-project
 cd my-project
 ```
 
@@ -88,7 +87,7 @@ cd my-project
 To run tests, use:
 
 ```bash
-yarn test
+npm test
 ```
 
 ### 🏃 Run Locally
@@ -108,13 +107,13 @@ cd my-project
 Install dependencies:
 
 ```bash
-yarn install
+npm install
 ```
 
 Start the server:
 
 ```bash
-yarn start
+npm run dev
 ```
 
 ### 🚩 Deployment
@@ -122,7 +121,7 @@ yarn start
 To deploy this project:
 
 ```bash
-yarn deploy
+npm run deploy
 ```
 
 ---
@@ -140,16 +139,6 @@ function App() {
 ```
 
 ---
-
-## 👋 Contributing
-
-Contributions are always welcome! See `CONTRIBUTING.md` for ways to get started.
-
----
-
-## 📜 Code of Conduct
-
-Please read the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ---
 
