@@ -155,11 +155,10 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## 🤝 Contact
 
-## **Member List**
 * Harton Amalia MSD1
 * Habasescu Andrei MSD1
 
-Project Link: [[https://github.com/your-username/project-name](https://github.com/JobHunter2024/GammaTeam)]([https://github.com/your-username/project-name](https://github.com/JobHunter2024/GammaTeam))
+Project Link: [[https://github.com/JobHunter2024/GammaTeam](https://github.com/JobHunter2024/GammaTeam)]
 
 ---
 
