@@ -3,21 +3,21 @@
 
 ## 📔 Table of Contents
 
-- [About the Project](#🌟-about-the-project)
-- [Screenshots](#📷-screenshots)
-- [Tech Stack](#👾-tech-stack)
-- [Features](#🎯-features)
-- [Environment Variables](#🔑-environment-variables)
-- [Getting Started](#🧰-getting-started)
-  - [Prerequisites](#‼️-prerequisites)
-  - [Installation](#⚙️-installation)
-  - [Running Tests](#🧪-running-tests)
-  - [Run Locally](#🏃-run-locally)
-  - [Deployment](#🚩-deployment)
-- [Usage](#👀-usage)
-- [Roadmap](#🧭-roadmap)
-- [Contact](#🤝-contact)
-- [Acknowledgements](#💎-acknowledgements)
+- [About the Project](#about-the-project)
+- [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Environment Variables](#environment-variables)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running Tests](#running-tests)
+  - [Run Locally](#run-locally)
+  - [Deployment](#deployment)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -63,16 +63,16 @@ ANOTHER_API_KEY=another-key
 
 ## 🧰 Getting Started
 
-### ‼️ Prerequisites
+### Prerequisites
 
 Ensure you have Node.js installed.
 This project uses npm as a package manager:
 
 ```bash
-npm install -g npm
+npm install -g <package-name>
 ```
 
-### ⚙️ Installation
+### Installation
 
 Install my-project with npm:
 
@@ -81,7 +81,7 @@ npm install my-project
 cd my-project
 ```
 
-### 🧪 Running Tests
+### Running Tests
 
 To run tests, use:
 
@@ -89,12 +89,12 @@ To run tests, use:
 npm test
 ```
 
-### 🏃 Run Locally
+### Run Locally
 
 Clone the project:
 
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/JobHunter2024/GammaTeam.git
 ```
 
 Navigate to the project directory:
@@ -115,7 +115,7 @@ Start the server:
 npm run dev
 ```
 
-### 🚩 Deployment
+### Deployment
 
 To deploy this project:
 
