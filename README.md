@@ -1,4 +1,4 @@
-# JobHunter
+# 🏹 JobHunter
 
 
 ## 📔 Table of Contents
@@ -11,11 +11,9 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Running Tests](#running-tests)
   - [Run Locally](#run-locally)
   - [Deployment](#deployment)
 - [Usage](#usage)
-- [Roadmap](#roadmap)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -35,10 +33,24 @@ Provide a clear description of the project, its purpose, and functionalities.
 
 ## 👾 Tech Stack
 
-**Client:** Technology 1, Technology 2  
-**Server:** Technology 3, Technology 4  
-**Database:** Database Technology  
-**DevOps:** DevOps Tools  
+**Frontend:**
+- ⚛️ **React** - The main UI library.
+- 🛣 **React Router** - Handles page navigation.
+- 🎨 **Material UI** - Predefined UI components.
+- 🎭 **Bootstrap & React Bootstrap** - Responsive styling and components.
+- 🌐 **Axios** - HTTP request handling.
+- ⚡ **Vite** - Fast development build tool.
+- 🏗 **TypeScript** - Type-safe and scalable code.
+
+**Back-end:**
+
+- 🔥 **Apache Jena Fuseki** - A SPARQL server used to store, query, and manage RDF data for semantic reasoning.
+- 🐍 **Flask** - Lightweight and efficient Python web framework for building APIs.
+- 📜 **SPARQLWrapper** - Used for querying RDF data from **Wikidata** and other semantic sources.
+- 📌 **SPARQL & RDF** - Used to retrieve and manipulate **semantic data** from the ontology.
+- ⚙️ **Java & Spring Boot** - Provides a scalable backend service for managing and processing job-related data.g.
+- 🗃 **PostgreSQL** - The relational database management system used for storing structured data.
+- 📝 **Flask-Swagger** - API documentation and interactive testing.
 
 ---
 
@@ -79,14 +91,6 @@ Install my-project with npm:
 ```bash
 npm install my-project
 cd my-project
-```
-
-### Running Tests
-
-To run tests, use:
-
-```bash
-npm test
 ```
 
 ### Run Locally
